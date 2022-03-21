@@ -11,5 +11,5 @@ sites:
 
 status-website:
   cname: status.firectmusic.ru
-  logoUrl: https://firectmusic.ru/assets/images/logo-1.png
+  logoUrl: https://raw.githubusercontent.com/firectmusic/upptime/master/firectlogo.svg
   name: Firect Music Status
