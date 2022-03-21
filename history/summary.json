@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/fmlk.firectmusic.ru",
     "slug": "api",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "98.49%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "98.49%",
     "time": 734,
     "timeDay": 734,
     "timeWeek": 734,
     "timeMonth": 734,
     "timeYear": 734,
     "dailyMinutesDown": {
-      "2022-03-21": 1
+      "2022-03-21": 7
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/fmlk.firectmusic.ru",
     "slug": "fmlk",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "98.62%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "98.62%",
     "time": 296,
     "timeDay": 296,
     "timeWeek": 296,
     "timeMonth": 296,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2022-03-21": 0
+      "2022-03-21": 6
     }
   }
 ]
