@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 360,
-    "timeDay": 360,
-    "timeWeek": 360,
-    "timeMonth": 360,
-    "timeYear": 360,
+    "time": 339,
+    "timeDay": 339,
+    "timeWeek": 339,
+    "timeMonth": 339,
+    "timeYear": 339,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/fmlk.firectmusic.ru",
     "slug": "api",
     "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 605,
-    "timeDay": 605,
-    "timeWeek": 605,
-    "timeMonth": 605,
-    "timeYear": 605,
+    "uptime": "95.23%",
+    "uptimeDay": "95.23%",
+    "uptimeWeek": "95.23%",
+    "uptimeMonth": "95.23%",
+    "uptimeYear": "95.23%",
+    "time": 582,
+    "timeDay": 582,
+    "timeWeek": 582,
+    "timeMonth": 582,
+    "timeYear": 582,
     "dailyMinutesDown": {
-      "2022-03-21": 0
+      "2022-03-21": 8
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/fmlk.firectmusic.ru",
     "slug": "fmlk",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 225,
-    "timeDay": 225,
-    "timeWeek": 225,
-    "timeMonth": 225,
-    "timeYear": 225,
+    "uptime": "95.30%",
+    "uptimeDay": "95.30%",
+    "uptimeWeek": "95.30%",
+    "uptimeMonth": "95.30%",
+    "uptimeYear": "95.30%",
+    "time": 213,
+    "timeDay": 213,
+    "timeWeek": 213,
+    "timeMonth": 213,
+    "timeYear": 213,
     "dailyMinutesDown": {
-      "2022-03-21": 0
+      "2022-03-21": 8
     }
   }
 ]
