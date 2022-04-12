@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 282,
-    "timeDay": 328,
+    "timeDay": 327,
     "timeWeek": 285,
     "timeMonth": 282,
     "timeYear": 282,
@@ -29,15 +29,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 809,
-    "timeDay": 892,
-    "timeWeek": 907,
+    "timeDay": 866,
+    "timeWeek": 903,
     "timeMonth": 809,
     "timeYear": 809,
     "dailyMinutesDown": {}
   },
   {
     "name": "FMLK",
-    "url": "https://fmlk.firectmusic.ru/",
+    "url": "https://fmlk.firectmusic.ru",
     "icon": "https://favicons.githubusercontent.com/fmlk.firectmusic.ru",
     "slug": "fmlk",
     "status": "up",
@@ -51,6 +51,24 @@
     "timeWeek": 315,
     "timeMonth": 274,
     "timeYear": 274,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Statistics",
+    "url": "https://stats.firectmusic.ru",
+    "icon": "https://favicons.githubusercontent.com/stats.firectmusic.ru",
+    "slug": "statistics",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3005,
+    "timeDay": 3005,
+    "timeWeek": 3005,
+    "timeMonth": 3005,
+    "timeYear": 3005,
     "dailyMinutesDown": {}
   }
 ]
