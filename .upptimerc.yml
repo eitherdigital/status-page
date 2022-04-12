@@ -7,7 +7,9 @@ sites:
   - name: API
     url: https://fmlk.firectmusic.ru/api/v1/status
   - name: FMLK
-    url: https://fmlk.firectmusic.ru/
+    url: https://fmlk.firectmusic.ru
+  - name: Statistics
+    url: https://stats.firectmusic.ru
 
 status-website:
   cname: status.firectmusic.ru
