@@ -22,18 +22,20 @@
     "url": "https://fmlk.firectmusic.ru/api/v1/status",
     "icon": "https://favicons.githubusercontent.com/fmlk.firectmusic.ru",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 841,
-    "timeDay": 1455,
-    "timeWeek": 952,
-    "timeMonth": 841,
-    "timeYear": 841,
-    "dailyMinutesDown": {}
+    "time": 840,
+    "timeDay": 1439,
+    "timeWeek": 951,
+    "timeMonth": 840,
+    "timeYear": 840,
+    "dailyMinutesDown": {
+      "2022-04-20": 0
+    }
   },
   {
     "name": "FMLK",
@@ -47,7 +49,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 296,
-    "timeDay": 841,
+    "timeDay": 830,
     "timeWeek": 366,
     "timeMonth": 296,
     "timeYear": 296,
@@ -65,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 682,
-    "timeDay": 837,
-    "timeWeek": 679,
+    "timeDay": 835,
+    "timeWeek": 680,
     "timeMonth": 682,
     "timeYear": 682,
     "dailyMinutesDown": {}
