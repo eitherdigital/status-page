@@ -11,7 +11,7 @@ sites:
 
 status-website:
   cname: status.either.digital
-  logoUrl: https://raw.githubusercontent.com/eitherdigital/upptime/master/firectlogo.svg
+  logoUrl: https://raw.githubusercontent.com/eitherdigital/upptime/master/assets/either-logo.svg
   name: Either Digital Status
 
 workflowSchedule:
