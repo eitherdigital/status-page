@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/lk.either.digital",
     "slug": "api",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 840,
     "timeDay": 1424,
     "timeWeek": 950,
     "timeMonth": 840,
     "timeYear": 840,
-    "dailyMinutesDown": {
-      "2022-04-20": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "LK",
