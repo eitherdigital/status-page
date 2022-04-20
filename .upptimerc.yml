@@ -1,20 +1,18 @@
-owner: firectmusic
+owner: eitherdigital
 repo: upptime
 
 sites:
   - name: Landing
-    url: https://firectmusic.ru
+    url: https://either.digital
   - name: API
-    url: https://fmlk.firectmusic.ru/api/v1/status
-  - name: FMLK
-    url: https://fmlk.firectmusic.ru
-  - name: Statistics
-    url: https://stats.firectmusic.ru
+    url: https://lk.either.digital/api/v1/status
+  - name: LK
+    url: https://lk.either.digital
 
 status-website:
-  cname: status.firectmusic.ru
-  logoUrl: https://raw.githubusercontent.com/firectmusic/upptime/master/firectlogo.svg
-  name: Firect Music Status
+  cname: status.either.digital
+  logoUrl: https://raw.githubusercontent.com/eitherdigital/upptime/master/firectlogo.svg
+  name: Either Digital Status
 
 workflowSchedule:
   graphs: "*/5 * * * *"
