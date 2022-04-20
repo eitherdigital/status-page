@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.either.digital): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Either Digital](either.digital), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Either Digital](https://either.digital), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/eitherdigital/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/eitherdigital/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/eitherdigital/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/eitherdigital/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -27,5 +27,5 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [EITHER.DIGITAL](either.digital)
+- Code: [MIT](./LICENSE) © [EITHER.DIGITAL](https://either.digital)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
