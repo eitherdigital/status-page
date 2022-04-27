@@ -4,19 +4,19 @@
     "url": "https://either.digital",
     "icon": "https://favicons.githubusercontent.com/either.digital",
     "slug": "landing",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 399,
-    "timeDay": 637,
+    "timeDay": 634,
     "timeWeek": 933,
     "timeMonth": 421,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2022-04-27": 0
+      "2022-04-27": 14
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://lk.either.digital/api/v1/status",
     "icon": "https://favicons.githubusercontent.com/lk.either.digital",
     "slug": "api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 809,
-    "timeDay": 621,
+    "timeDay": 622,
     "timeWeek": 664,
     "timeMonth": 858,
     "timeYear": 809,
     "dailyMinutesDown": {
-      "2022-04-27": 0
+      "2022-04-27": 14
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://lk.either.digital",
     "icon": "https://favicons.githubusercontent.com/lk.either.digital",
     "slug": "lk",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 229,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 286,
+    "timeDay": 228,
     "timeWeek": 277,
-    "timeMonth": 287,
-    "timeYear": 287,
+    "timeMonth": 286,
+    "timeYear": 286,
     "dailyMinutesDown": {
-      "2022-04-27": 0
+      "2022-04-27": 14
     }
   }
 ]
