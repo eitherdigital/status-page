@@ -8,6 +8,10 @@ sites:
     url: https://lk.either.digital/api/v1/status
   - name: LK
     url: https://lk.either.digital
+  - name: Smart Links
+    url: https://links.either.digital
+  - name: Smart Links LK
+    url: https://llk.either.digital
 
 status-website:
   cname: status.either.digital
