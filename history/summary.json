@@ -4,53 +4,59 @@
     "url": "https://either.digital",
     "icon": "https://favicons.githubusercontent.com/either.digital",
     "slug": "landing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 399,
-    "timeDay": 645,
-    "timeWeek": 935,
+    "timeDay": 637,
+    "timeWeek": 933,
     "timeMonth": 421,
     "timeYear": 399,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-27": 0
+    }
   },
   {
     "name": "API",
     "url": "https://lk.either.digital/api/v1/status",
     "icon": "https://favicons.githubusercontent.com/lk.either.digital",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 809,
-    "timeDay": 627,
-    "timeWeek": 665,
+    "timeDay": 621,
+    "timeWeek": 664,
     "timeMonth": 858,
     "timeYear": 809,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-27": 0
+    }
   },
   {
     "name": "LK",
     "url": "https://lk.either.digital",
     "icon": "https://favicons.githubusercontent.com/lk.either.digital",
     "slug": "lk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 232,
-    "timeWeek": 278,
+    "timeDay": 229,
+    "timeWeek": 277,
     "timeMonth": 287,
     "timeYear": 287,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-27": 0
+    }
   }
 ]
