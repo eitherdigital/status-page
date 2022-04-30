@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 424,
-    "timeDay": 824,
+    "timeDay": 826,
     "timeWeek": 722,
     "timeMonth": 467,
     "timeYear": 424,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 792,
-    "timeDay": 577,
+    "timeDay": 576,
     "timeWeek": 604,
     "timeMonth": 845,
     "timeYear": 792,
@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/links.either.digital",
     "slug": "smart-links",
     "status": "down",
-    "uptime": "91.08%",
-    "uptimeDay": "71.49%",
-    "uptimeWeek": "91.08%",
-    "uptimeMonth": "91.08%",
-    "uptimeYear": "91.08%",
+    "uptime": "90.82%",
+    "uptimeDay": "70.56%",
+    "uptimeWeek": "90.82%",
+    "uptimeMonth": "90.82%",
+    "uptimeYear": "90.82%",
     "time": 441,
-    "timeDay": 430,
+    "timeDay": 429,
     "timeWeek": 441,
     "timeMonth": 441,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2022-04-30": 411
+      "2022-04-30": 424
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://favicons.githubusercontent.com/llk.either.digital",
     "slug": "smart-links-lk",
     "status": "down",
-    "uptime": "91.12%",
-    "uptimeDay": "71.59%",
-    "uptimeWeek": "91.12%",
-    "uptimeMonth": "91.12%",
-    "uptimeYear": "91.12%",
+    "uptime": "90.86%",
+    "uptimeDay": "70.67%",
+    "uptimeWeek": "90.86%",
+    "uptimeMonth": "90.86%",
+    "uptimeYear": "90.86%",
     "time": 441,
-    "timeDay": 434,
+    "timeDay": 433,
     "timeWeek": 441,
     "timeMonth": 441,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2022-04-30": 409
+      "2022-04-30": 422
     }
   }
 ]
