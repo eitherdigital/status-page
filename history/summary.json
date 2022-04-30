@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 424,
-    "timeDay": 808,
-    "timeWeek": 722,
-    "timeMonth": 467,
-    "timeYear": 424,
+    "time": 425,
+    "timeDay": 843,
+    "timeWeek": 729,
+    "timeMonth": 469,
+    "timeYear": 425,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 791,
-    "timeDay": 535,
-    "timeWeek": 600,
-    "timeMonth": 845,
+    "timeDay": 527,
+    "timeWeek": 599,
+    "timeMonth": 844,
     "timeYear": 791,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 281,
-    "timeDay": 204,
-    "timeWeek": 245,
-    "timeMonth": 281,
-    "timeYear": 281,
+    "time": 280,
+    "timeDay": 198,
+    "timeWeek": 244,
+    "timeMonth": 280,
+    "timeYear": 280,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/links.either.digital",
     "slug": "smart-links",
     "status": "down",
-    "uptime": "90.09%",
-    "uptimeDay": "67.94%",
-    "uptimeWeek": "90.09%",
-    "uptimeMonth": "90.09%",
-    "uptimeYear": "90.09%",
+    "uptime": "89.78%",
+    "uptimeDay": "66.83%",
+    "uptimeWeek": "89.78%",
+    "uptimeMonth": "89.78%",
+    "uptimeYear": "89.78%",
     "time": 440,
     "timeDay": 426,
     "timeWeek": 440,
     "timeMonth": 440,
     "timeYear": 440,
     "dailyMinutesDown": {
-      "2022-04-30": 462
+      "2022-04-30": 478
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://favicons.githubusercontent.com/llk.either.digital",
     "slug": "smart-links-lk",
     "status": "down",
-    "uptime": "90.12%",
-    "uptimeDay": "68.05%",
-    "uptimeWeek": "90.12%",
-    "uptimeMonth": "90.12%",
-    "uptimeYear": "90.12%",
+    "uptime": "89.81%",
+    "uptimeDay": "66.93%",
+    "uptimeWeek": "89.81%",
+    "uptimeMonth": "89.81%",
+    "uptimeYear": "89.81%",
     "time": 440,
     "timeDay": 429,
     "timeWeek": 440,
     "timeMonth": 440,
     "timeYear": 440,
     "dailyMinutesDown": {
-      "2022-04-30": 460
+      "2022-04-30": 476
     }
   }
 ]
