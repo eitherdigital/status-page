@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 792,
-    "timeDay": 576,
-    "timeWeek": 604,
+    "time": 791,
+    "timeDay": 536,
+    "timeWeek": 600,
     "timeMonth": 845,
-    "timeYear": 792,
+    "timeYear": 791,
     "dailyMinutesDown": {}
   },
   {
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 281,
-    "timeDay": 205,
-    "timeWeek": 249,
+    "timeDay": 204,
+    "timeWeek": 245,
     "timeMonth": 281,
     "timeYear": 281,
     "dailyMinutesDown": {}
@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/links.either.digital",
     "slug": "smart-links",
     "status": "down",
-    "uptime": "90.82%",
-    "uptimeDay": "70.56%",
-    "uptimeWeek": "90.82%",
-    "uptimeMonth": "90.82%",
-    "uptimeYear": "90.82%",
-    "time": 441,
-    "timeDay": 429,
-    "timeWeek": 441,
-    "timeMonth": 441,
-    "timeYear": 441,
+    "uptime": "90.57%",
+    "uptimeDay": "69.67%",
+    "uptimeWeek": "90.57%",
+    "uptimeMonth": "90.57%",
+    "uptimeYear": "90.57%",
+    "time": 440,
+    "timeDay": 426,
+    "timeWeek": 440,
+    "timeMonth": 440,
+    "timeYear": 440,
     "dailyMinutesDown": {
-      "2022-04-30": 424
+      "2022-04-30": 437
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://favicons.githubusercontent.com/llk.either.digital",
     "slug": "smart-links-lk",
     "status": "down",
-    "uptime": "90.86%",
-    "uptimeDay": "70.67%",
-    "uptimeWeek": "90.86%",
-    "uptimeMonth": "90.86%",
-    "uptimeYear": "90.86%",
-    "time": 441,
-    "timeDay": 433,
-    "timeWeek": 441,
-    "timeMonth": 441,
-    "timeYear": 441,
+    "uptime": "90.60%",
+    "uptimeDay": "69.78%",
+    "uptimeWeek": "90.60%",
+    "uptimeMonth": "90.60%",
+    "uptimeYear": "90.60%",
+    "time": 440,
+    "timeDay": 430,
+    "timeWeek": 440,
+    "timeMonth": 440,
+    "timeYear": 440,
     "dailyMinutesDown": {
-      "2022-04-30": 422
+      "2022-04-30": 435
     }
   }
 ]
