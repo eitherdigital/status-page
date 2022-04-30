@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 424,
-    "timeDay": 810,
-    "timeWeek": 739,
+    "timeDay": 813,
+    "timeWeek": 740,
     "timeMonth": 465,
     "timeYear": 424,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 792,
-    "timeDay": 577,
-    "timeWeek": 621,
+    "timeDay": 579,
+    "timeWeek": 612,
     "timeMonth": 843,
     "timeYear": 792,
     "dailyMinutesDown": {}
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 281,
-    "timeDay": 204,
-    "timeWeek": 267,
+    "timeDay": 205,
+    "timeWeek": 251,
     "timeMonth": 281,
     "timeYear": 281,
     "dailyMinutesDown": {}
@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/links.either.digital",
     "slug": "smart-links",
     "status": "down",
-    "uptime": "96.88%",
-    "uptimeDay": "90.62%",
-    "uptimeWeek": "96.88%",
-    "uptimeMonth": "96.88%",
-    "uptimeYear": "96.88%",
+    "uptime": "96.06%",
+    "uptimeDay": "88.05%",
+    "uptimeWeek": "96.06%",
+    "uptimeMonth": "96.06%",
+    "uptimeYear": "96.06%",
     "time": 441,
-    "timeDay": 431,
+    "timeDay": 429,
     "timeWeek": 441,
     "timeMonth": 441,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2022-04-30": 135
+      "2022-04-30": 172
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://favicons.githubusercontent.com/llk.either.digital",
     "slug": "smart-links-lk",
     "status": "down",
-    "uptime": "96.91%",
-    "uptimeDay": "90.72%",
-    "uptimeWeek": "96.91%",
-    "uptimeMonth": "96.91%",
-    "uptimeYear": "96.91%",
+    "uptime": "96.09%",
+    "uptimeDay": "88.15%",
+    "uptimeWeek": "96.09%",
+    "uptimeMonth": "96.09%",
+    "uptimeYear": "96.09%",
     "time": 441,
-    "timeDay": 437,
+    "timeDay": 435,
     "timeWeek": 441,
     "timeMonth": 441,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2022-04-30": 134
+      "2022-04-30": 171
     }
   }
 ]
