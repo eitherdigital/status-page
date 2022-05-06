@@ -24,9 +24,9 @@
     "slug": "api",
     "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "95.34%",
-    "uptimeMonth": "98.93%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "95.30%",
+    "uptimeMonth": "98.92%",
     "uptimeYear": "99.29%",
     "time": 762,
     "timeDay": 548,
@@ -34,7 +34,7 @@
     "timeMonth": 740,
     "timeYear": 762,
     "dailyMinutesDown": {
-      "2022-05-06": 0,
+      "2022-05-06": 5,
       "2022-05-03": 316,
       "2022-05-02": 154
     }
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/lk.either.digital",
     "slug": "lk",
     "status": "down",
-    "uptime": "98.04%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "95.36%",
-    "uptimeMonth": "98.04%",
-    "uptimeYear": "98.04%",
+    "uptime": "98.02%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "95.31%",
+    "uptimeMonth": "98.02%",
+    "uptimeYear": "98.02%",
     "time": 274,
     "timeDay": 233,
     "timeWeek": 253,
     "timeMonth": 274,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2022-05-06": 0,
+      "2022-05-06": 5,
       "2022-05-03": 316,
       "2022-05-02": 152
     }
