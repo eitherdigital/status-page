@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/either.digital",
     "slug": "landing",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 515,
     "timeDay": 961,
     "timeWeek": 1161,
     "timeMonth": 654,
     "timeYear": 515,
     "dailyMinutesDown": {
-      "2022-05-06": 0
+      "2022-05-06": 5
     }
   },
   {
