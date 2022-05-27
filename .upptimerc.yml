@@ -12,7 +12,7 @@ sites:
     url: https://links.either.digital
   - name: Smart Links LK
     url: https://llk.either.digital
-  - name: SqlViewer
+  - name: SQL Browser
     url: https://sql.either.digital
 
 status-website:
