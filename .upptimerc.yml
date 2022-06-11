@@ -5,9 +5,11 @@ sites:
   - name: Landing
     url: https://either.digital
   - name: API
-    url: https://lk.either.digital/api/v1/status
+    url: https://api.either.digital/status
   - name: LK
     url: https://lk.either.digital
+  - name: Dev
+    url: https://dev.either.digital
   - name: Smart Links
     url: https://links.either.digital
   - name: Smart Links LK
