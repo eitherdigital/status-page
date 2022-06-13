@@ -1,5 +1,5 @@
 owner: eitherdigital
-repo: upptime
+repo: status-page
 
 sites:
   - name: Landing
@@ -19,7 +19,7 @@ sites:
 
 status-website:
   cname: status.either.digital
-  logoUrl: https://raw.githubusercontent.com/eitherdigital/upptime/master/assets/either-logo.svg
+  logoUrl: https://raw.githubusercontent.com/eitherdigital/status-page/master/assets/either-logo.svg
   name: Either Digital Status
 
 workflowSchedule:
