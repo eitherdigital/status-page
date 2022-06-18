@@ -11,9 +11,7 @@ sites:
   - name: Dev
     url: https://dev.either.digital
   - name: Smart Links
-    url: https://links.either.digital
-  - name: Smart Links LK
-    url: https://llk.either.digital
+    url: https://either.fun/test
   - name: SQL Browser
     url: https://sql.either.digital
 
